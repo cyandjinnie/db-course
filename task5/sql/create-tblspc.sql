@@ -1,0 +1,1 @@
+CREATE TABLESPACE "ssd" OWNER "user" LOCATION '/data/ssd';
